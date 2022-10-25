@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zhengjun-Du
-- 👀 I’m interested in computer graphics, image/video editing, deep learning and data structure and algorithm
-- 🌱 I’m currently learning deep learning and some math
-- 📫 How to reach me: duzj19@mails.tsinghua.edu.cn
+- 👋 Hi, I’m Zheng-jun Du, welcome here!
+- 👀 I’m interested in computer graphics, image/video editing, deep learning and data structure and algorithm.
+- 🌱 I’m currently learning deep learning and some math.
+- 📫 How to reach me: duzj19@mails.tsinghua.edu.cn.
 
 <!---
 ![github stats](https://github-readme-stats.vercel.app/api?username=Zhengjun-Du&show_icons=true&count_private=true)
