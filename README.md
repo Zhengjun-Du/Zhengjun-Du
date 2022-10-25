@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zhengjun-Du
-- 👀 I’m interested in computer graphics, image/video editing, deep learning, data structure and algorithm
+- 👀 I’m interested in computer graphics, image/video editing, deep learning and data structure and algorithm
 - 🌱 I’m currently learning deep learning and some math
 - 📫 How to reach me: duzj19@mails.tsinghua.edu.cn
 
